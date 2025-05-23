@@ -1,0 +1,46 @@
+java:
+    *it is a object oriented programing  language
+    *its also know as write once read anywhare
+        use of Jvm java can read any os that contiains jvm mechine 
+    *platform independent;
+    
+    .java----->.class----->machinecode
+compiler:
+
+    it convert .java to .class(byte code)
+ jvm:
+ 
+    JAVA VITUAL MACHINE;
+    it convert byte code to machine code;
+    
+    
+ JRE:
+    JAVA RUNTIME  ENVIRONMENT   
+    it contains jvm and java libraries;
+ 
+ JDK:
+    JAVA DEVELOPEMENT KIT
+    It contains jre and mechine tools and compiler;
+    
+ DATA TYPES:
+     PREMITIVE-byte ,short,int,long,double,float,char,boolean;
+     WRAPPER-byte==>Byte;short-->Short;int-->Integer;long-->Long;double-->Double;float-->Float;char-->character;boolean-->Boolean;
+    
+ VARIABLES:
+      variables are containers that store data in memory;    
+     
+     int age = 25;                  // Integer variable  
+
+String name = "Java";          // String variable  
+
+double salary = 50000.50;      // Double variable  
+     
+     
+     
+     
+     
+     
+     
+     
+     
+        
